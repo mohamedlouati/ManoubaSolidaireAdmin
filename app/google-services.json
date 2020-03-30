@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264158558896",
+    "firebase_url": "https://mannoubasolidaireadmin.firebaseio.com",
+    "project_id": "mannoubasolidaireadmin",
+    "storage_bucket": "mannoubasolidaireadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264158558896:android:fefe12db04898accc0d975",
+        "android_client_info": {
+          "package_name": "com.example.mannoubasolidaireadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264158558896-tafms28gnbbd5tgqjjrqvarvtn4ugk2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59TEyErXKn6_4yGkNe3483-Uywp0AUBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264158558896-tafms28gnbbd5tgqjjrqvarvtn4ugk2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
